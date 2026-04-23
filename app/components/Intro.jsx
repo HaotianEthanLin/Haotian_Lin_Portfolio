@@ -17,7 +17,7 @@ const Intro = () => {
         >
           <h1 className="text-black mb-4 max-w-2xl text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight">
             <span className="text-inherit">
-              Hello, I'm{" "}
+              Hello, I&apos;m{" "}
             </span>{" "}
             <br></br>
             <TypeAnimation
